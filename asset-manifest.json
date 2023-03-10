@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/SantillanMartin/CalcuCompuesto.git/static/css/main.3f6cc8ee.css",
-    "main.js": "/SantillanMartin/CalcuCompuesto.git/static/js/main.0c4dccbc.js",
-    "static/js/787.28cb0dcd.chunk.js": "/SantillanMartin/CalcuCompuesto.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/linkedin.png": "/SantillanMartin/CalcuCompuesto.git/static/media/linkedin.f249b38224ca41a0b909.png",
-    "index.html": "/SantillanMartin/CalcuCompuesto.git/index.html",
-    "main.3f6cc8ee.css.map": "/SantillanMartin/CalcuCompuesto.git/static/css/main.3f6cc8ee.css.map",
-    "main.0c4dccbc.js.map": "/SantillanMartin/CalcuCompuesto.git/static/js/main.0c4dccbc.js.map",
-    "787.28cb0dcd.chunk.js.map": "/SantillanMartin/CalcuCompuesto.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/CalcuCompuesto/static/css/main.eeec9cf8.css",
+    "main.js": "/CalcuCompuesto/static/js/main.05dac83e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CalcuCompuesto/static/js/787.28cb0dcd.chunk.js",
+    "static/media/linkedin.png": "/CalcuCompuesto/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/CalcuCompuesto/index.html",
+    "main.eeec9cf8.css.map": "/CalcuCompuesto/static/css/main.eeec9cf8.css.map",
+    "main.05dac83e.js.map": "/CalcuCompuesto/static/js/main.05dac83e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CalcuCompuesto/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6cc8ee.css",
-    "static/js/main.0c4dccbc.js"
+    "static/css/main.eeec9cf8.css",
+    "static/js/main.05dac83e.js"
   ]
 }
