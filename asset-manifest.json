@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CalcuCompuesto/static/css/main.7fd22f94.css",
-    "main.js": "/CalcuCompuesto/static/js/main.9b1b897e.js",
+    "main.css": "/CalcuCompuesto/static/css/main.95e0cf22.css",
+    "main.js": "/CalcuCompuesto/static/js/main.894713cd.js",
     "static/js/787.28cb0dcd.chunk.js": "/CalcuCompuesto/static/js/787.28cb0dcd.chunk.js",
     "static/media/github.png": "/CalcuCompuesto/static/media/github.a855c3975c028d8069f5.png",
     "static/media/linkedin.png": "/CalcuCompuesto/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/CalcuCompuesto/index.html",
-    "main.7fd22f94.css.map": "/CalcuCompuesto/static/css/main.7fd22f94.css.map",
-    "main.9b1b897e.js.map": "/CalcuCompuesto/static/js/main.9b1b897e.js.map",
+    "main.95e0cf22.css.map": "/CalcuCompuesto/static/css/main.95e0cf22.css.map",
+    "main.894713cd.js.map": "/CalcuCompuesto/static/js/main.894713cd.js.map",
     "787.28cb0dcd.chunk.js.map": "/CalcuCompuesto/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fd22f94.css",
-    "static/js/main.9b1b897e.js"
+    "static/css/main.95e0cf22.css",
+    "static/js/main.894713cd.js"
   ]
 }
